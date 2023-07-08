@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi👋
+I'm a native Android Developer. I'm experienced with web development then I switched to mobile app development. I have 4 years of full-time job experience in mobile app development. I worked on custom firmwares and system applications. I follow Android's architecture guideline to develop an application, I use Android Jetpack libraries and Kotlin.
+
+## Publications
+[Working on Custom Android Firmware with a Provider](https://medium.com/@uyelikanil/working-on-custom-android-firmware-with-a-provider-fab13b2d8948)
 
 <!--
 **uyelikanil/uyelikanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
