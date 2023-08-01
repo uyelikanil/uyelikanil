@@ -1,5 +1,5 @@
 ### Hi👋
-I'm a native Android Developer. I'm experienced with web development then I switched to mobile app development. I have 4 years of full-time job experience in mobile app development. I worked on custom firmwares and system applications. I follow Android's architecture guideline to develop an application, I use Android Jetpack libraries and Kotlin.
+I'm a native Android Developer. I'm experienced with web development then I switched to mobile app development. I worked on custom firmwares and system apps. I'm experinced with unit testing. I have good knowledge about OOP and SOLID principles. I follow Android's architecture guideline to develop an app, I use Android Jetpack libraries and Kotlin.
 
 ## Publications
 [Working on Custom Android Firmware with a Provider](https://medium.com/@uyelikanil/working-on-custom-android-firmware-with-a-provider-fab13b2d8948)
