@@ -1,5 +1,5 @@
 ### Hi👋
-I'm a native Android Developer. I worked on custom firmwares and system apps. I have good knowledge about OOP and SOLID principles. I'm experienced with Jetpack Compose and unit testing. I follow Android's architecture guideline to develop an app and use Android Jetpack libraries and Kotlin.
+I'm a native Android Developer. I worked on custom firmware and system apps. I have good knowledge about OOP and SOLID principles. I'm experienced with Jetpack Compose and unit testing. I follow Android's architecture guideline to develop an app, use Android Jetpack libraries and Kotlin.
 
 ## Publications
 [Working on Custom Android Firmware with a Provider](https://medium.com/@uyelikanil/working-on-custom-android-firmware-with-a-provider-fab13b2d8948)
